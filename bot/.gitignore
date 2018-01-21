@@ -1,0 +1,23 @@
+.idea/
+*.pyc
+~*/
+
+audio_cache/
+dectalk/
+
+discord.log
+logs/
+files/raw data/
+config/autoplaylist.txt
+config/options.ini
+files/backup/
+files/memes.db
+files/points.pts
+files/sm.db
+files/xy.db
+files/questions of life.db
+files/memes/
+files/feed/
+config/autoplaylist_removed.txt
+data/server_names.txt
+files/backup/
